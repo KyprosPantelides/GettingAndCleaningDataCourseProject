@@ -1,5 +1,5 @@
 ---
-title: "README.MD"
+title: "CodeBook"
 author: "Kypros Pantelides"
 date: "Wednesday, July 23, 2014"
 output: html_document
