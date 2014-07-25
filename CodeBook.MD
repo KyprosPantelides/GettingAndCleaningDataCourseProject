@@ -1,4 +1,4 @@
-Coursera - Getting and Cleaning Data Course Project - "CodeBook.MD"
+##	Coursera - Getting and Cleaning Data Course Project - "CodeBook.MD"
 
 The "CodeBook.MD" file explains what the output ("tidyDataSet.txt") data set variables are.
 

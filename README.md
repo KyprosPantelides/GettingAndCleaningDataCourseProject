@@ -1,8 +1,8 @@
-# Coursera - Getting and Cleaning Data Course Project - "README.MD"
+## Coursera - Getting and Cleaning Data Course Project - "README.MD"
 
 The "README.MD" file explains what the "run_analysis.R" script does.
 
-## Source data
+### Source data
 
 The data for the project comes from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -21,14 +21,14 @@ The raw data constist from the following files:
 - x_test.txt
 - y_test.txt
 
-## Dependancies
+### Dependancies
 
 The UCI_HAR_Dataset.zip file is downloaded and extracted into the UCI_HAR_Dataset folder.
 That becomes also the working directory for the script. 
 The "run_analysis.R" file should be in the working directory UCI_HAR_Dataset where the raw data is.
 The package "plyr" should be installed for the "ddply" function.
 
-## Script description
+### Script description
 
 The "run_analysis.R" will perform the following, as per project requirement:
 1.Merges the training and the test sets to create one data set.
@@ -41,7 +41,7 @@ The "run_analysis.R" will perform the following, as per project requirement:
 The "run_analysis.R" file contains detailed commments explaining the steps in which the original 
 data was transformed to the output "tidyDataSet.txt" file.
 
-## Output
+### Output
 
 The "CodeBook.MD" file contains detailed information on the output "tidyDataSet.txt" file.  
 
